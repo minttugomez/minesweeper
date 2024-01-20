@@ -10,7 +10,7 @@ Käyttöohje
 
 Testausdokumentti
 
-### Viikkoraportit:
+## Viikkoraportit:
 
 [Viikko 1](https://github.com/minttugomez/minesweeper/dokumentaatio/viikkoraportti1.md)
 
