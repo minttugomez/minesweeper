@@ -1,9 +1,13 @@
 # Määrittelydokumentti
 
 Opinto-ohjelma: TKT
+
 Ohjelmointikieli: Python
+
 Muut osaamisalueen kielet: JavaScript, TypeScript
+
 Projektin kieli: Englanti
+
 Dokumentaation kieli: Suomi
 
 ## Minesweeper eli Miinaharava
