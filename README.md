@@ -2,7 +2,7 @@
 
 ## Dokumentaatio
 
-[Määrittelydokumentti](https://github.com/minttugomez/minesweeper/documentation/maarittelydokumentti.md)
+[Määrittelydokumentti](https://github.com/minttugomez/minesweeper/blob/main/documentation/maarittelydokumentti.md)
 
 Toteutusdokumentti
 
@@ -12,7 +12,7 @@ Testausdokumentti
 
 ## Viikkoraportit
 
-[Viikko 1](https://github.com/minttugomez/minesweeper/documentation/viikkoraportti1.md)
+[Viikko 1](https://github.com/minttugomez/minesweeper/blob/main/documentation/viikkoraportti1.md)
 
 Viikko 2
 
