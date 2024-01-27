@@ -14,7 +14,7 @@ Testausdokumentti
 
 [Viikko 1](https://github.com/minttugomez/minesweeper/blob/main/documentation/viikkoraportti1.md)
 
-Viikko 2
+[Viikko 2](https://github.com/minttugomez/minesweeper/blob/main/documentation/viikkoraportti2.md)
 
 Viikko 3
 
