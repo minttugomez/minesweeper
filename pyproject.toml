@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "minesweeper"
+version = "0.1.0"
+description = ""
+authors = ["Minttu Gomez <minttu.jamsa@helsinki.fi>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+coverage = "^7.4.1"
+pylint = "^3.0.3"
+pygame = "^2.5.2"
+pytest = "^8.0.0"
+
+
+[tool.poetry.group.dev.dependencies]
+coverage = "^7.4.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

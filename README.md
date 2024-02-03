@@ -1,14 +1,16 @@
 # Minesweeper
 
+![GHA workflow badge](https://github.com/minttugomez/minesweeper/workflows/CI/badge.svg)
+
 ## Dokumentaatio
 
 [Määrittelydokumentti](https://github.com/minttugomez/minesweeper/blob/main/documentation/maarittelydokumentti.md)
 
+[Testausdokumentti](https://github.com/minttugomez/minesweeper/blob/main/documentation/testausdokumentti.md)
+
 Toteutusdokumentti
 
 Käyttöohje
-
-Testausdokumentti
 
 ## Viikkoraportit
 
@@ -16,7 +18,7 @@ Testausdokumentti
 
 [Viikko 2](https://github.com/minttugomez/minesweeper/blob/main/documentation/viikkoraportti2.md)
 
-Viikko 3
+[Viikko 3](https://github.com/minttugomez/minesweeper/blob/main/documentation/viikkoraportti3.md)
 
 Viikko 4
 
